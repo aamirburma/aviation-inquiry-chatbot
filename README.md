@@ -8,7 +8,7 @@ A Python-based terminal chatbot that helps users explore, search, and compare ai
 ```
 aviation-inquiry-chatbot/
 │
-├── aviation_inquiry_chatbot.py        # Main chatbot logic
+├── aviation_inquiry_chatbot.ipynb        # Main chatbot logic
 ├── aviation_inquiry_corpus.xlsx       # Aircraft data (150+ entries)
 ├── README.md                          # Project documentation
 └── requirements.txt                   # Required Python libraries
